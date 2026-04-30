@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Alaska, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `167885` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 28 records |
-| Free sample size | 2 records (7.14%) |
-| Last export | 2026-04-22T13:28:00.934644+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-29T14:11:59.862242+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-alaska-us-sample-167885/releases/download/sample-latest/beamstation_167885_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
