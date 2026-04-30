@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bfb10eef-7593-469b-b557-a850c1da89e9",
+  "export_job_id": "77b18cbf-c6a9-4d15-a582-941c0776f5fd",
   "id_short": 167885,
-  "published_at": "2026-04-22T19:19:33Z",
+  "published_at": "2026-04-30T07:04:34Z",
   "repo_name": "top-50-restaurant-category-dominators-in-alaska-us-sample-167885",
   "sample_asset_name": "beamstation_167885_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/167885/beamstation_167885_restaurants-us-ak_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "9ba96b7ad4a930dc3bb42eaa4b19c561b28e0ef2d5ae815131bef4cc89aefa1e",
-  "sample_size_bytes": 24156,
-  "total_records": 28
+  "sample_records": 5,
+  "sample_sha256": "a0a977c31c7b5b248386b2f85f8a025a5abdbad1208bd201559a5d06902cdfec",
+  "sample_size_bytes": 37542,
+  "total_records": 50
 }
